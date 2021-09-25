@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.Form{
+    width:100%;
+    height:auto;
+   
+color:rgb(9, 85, 9);
+text-align: center;
+background-color: rosybrown;
+align-items: center;
+}
+#email,#password{
+  
+}
