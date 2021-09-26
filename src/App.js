@@ -20,12 +20,19 @@ import './App.css';
 //import Usestate from './components/Usestate';
 //import Form from './form-reactjs/form';
 //import Login_form_hooks from './form-reactjs/Login_form_hooks';
-import Pop1 from './Popup/Pop1';
+//import Pop1 from './Popup/Pop1';
+//import Ismail from './Popup/1';
+//import Ismail from './Popup/1';
+//import Form1 from './form-reactjs/form1';
+ import Square from './form-reactjs/copy/Copy1'; 
 function App() {
   return (
     <div >  
-    
+      <Square />
+     
       {/*
+      
+       <Form1/>
       <DD name="ismail" price="hiiii"></DD>
       <SS ismail="hrrrrrrrrr" hi="noooooo"></SS> 
       <SS ismail="hrrrrrrrrr" hi="noooooo"></SS>
@@ -47,8 +54,10 @@ function App() {
    <Usestate/>
    <Form/>
    <Login_form_hooks/>
+     <Pop1/>
+      <Ismail/>
       */}
-      <Pop1/>
+   
     
     
  
